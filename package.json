@@ -1,0 +1,12 @@
+{
+  "author": "IFRN",
+  "name": "MirobotSimulatorTest",
+  "repository": { },
+  "license": "MIT",
+  "description": "A test ",
+  "version": "0.0.1",
+  "main": "run.js",
+  "dependencies": {
+    "ws": "1.0.1"
+  }
+}
